@@ -30,4 +30,20 @@
 "dataAdicao": "date - quando foi adicionado",
 "categoria": "string - categoria do favorito"
 }
+},
+
+ {
+"historico_avancado": {
+"estrutura": {
+"entrada_historico": {
+"id": "string - identificador único",
+"url": "string - endereço visitado",
+"titulo": "string - título da página",
+"timestamp": "date - quando foi visitado",
+"tempoVisita": "number - tempo gasto na página",
+"favicon": "string - ícone da página"
 }
+}
+  }
+}
+      
