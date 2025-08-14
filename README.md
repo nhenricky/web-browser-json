@@ -1,2 +1,1 @@
-## navegador da web 
-## estrutura em json
+## navegador da web/json
